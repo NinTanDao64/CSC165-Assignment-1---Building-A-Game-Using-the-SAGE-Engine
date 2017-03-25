@@ -1,0 +1,4 @@
+cd [INSERT DIRECTORY CONTAINING SUBMITTED MATERIAL HERE]
+javac -d bin -sourcepath src src\a1\Starter.java
+cd bin
+java a1.Starter
